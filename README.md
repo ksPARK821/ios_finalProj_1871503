@@ -88,7 +88,7 @@ ios프로그래밍 기말대체 미니프로젝트 1871503 박규성
 
 ### 2.7 발표영상
 
-▶▶ [MiniToDo Youtube 영상 보기](https://youtu.be/your_video_link)
+▶▶ [MiniToDo Youtube 영상 보기](https://youtu.be/RY1yOuUKAiM)
 
 ---
 
