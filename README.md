@@ -47,18 +47,16 @@ ios프로그래밍 기말대체 미니프로젝트 1871503 박규성
 
 #### 런치스크린
 
-![Splash](https://github.com/ksPARK821/ios_finalProj_1871503/assets/preview1.png)
-
+![Intro](images/intro.png)
 #### 할일추가
 
-![AddTodo1](https://github.com/ksPARK821/ios_finalProj_1871503/assets/preview2.png)
-![AddTodo2](https://github.com/ksPARK821/ios_finalProj_1871503/assets/preview3.png)
-![AddTodo3](https://github.com/ksPARK821/ios_finalProj_1871503/assets/preview4.png)
+![Todo1](images/todo1.png)  
+![Todo2](images/todo2.png)  
+![Todo3](images/todo3.png)
 
 #### 할일목록
 
-![TodoList](https://github.com/ksPARK821/ios_finalProj_1871503/assets/preview5.png)
-
+![TodoList](images/todo4.png)
 ---
 
 ### 2.4 기대효과
